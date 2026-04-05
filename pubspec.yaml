@@ -2,6 +2,8 @@ name: network_speed_monitor
 description: "A pure Dart package to monitor real-time network upload/download speed by tracking actual app traffic. Includes a stream API, quality labels, and a ready-made widget."
 version: 0.0.1
 homepage: https://github.com/DevelopWithGaurav/network_speed_monitor
+repository: https://github.com/DevelopWithGaurav/network_speed_monitor
+issue_tracker: https://github.com/DevelopWithGaurav/network_speed_monitor/issues
 
 environment:
   sdk: ^3.11.4
@@ -16,5 +18,3 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^6.0.0
 
-flutter:
-  # Pure Dart + Flutter package, no native plugin registration needed
