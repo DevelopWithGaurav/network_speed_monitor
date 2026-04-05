@@ -18,3 +18,12 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^6.0.0
 
+topics:
+  - network
+  - speed
+  - monitoring
+  - flutter
+  - internet
+  - indicator
+  - download
+  - upload
